@@ -6,6 +6,11 @@ The `jlpm` command is JupyterLab's pinned version of
 [yarn](https://yarnpkg.com/) that is installed with JupyterLab. You may use
 `yarn` or `npm` in lieu of `jlpm` below.
 
+Install Jupyter
+pip3 install jupyterlab@2.2.0
+(if you have jupterlab already installed, you probably want to run :
+jupyter lab clean --all)
+
 ```bash
 # Clone the repo to your local environment
 # Move to codegen directory
