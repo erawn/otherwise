@@ -1,0 +1,36 @@
+*.egg-info/
+.ipynb_checkpoints/
+dist/
+build/
+*.py[cod]
+node_modules/
+*package-lock.json
+
+# Compiled javascript
+ipyleaflet/nbextension/
+ipyleaflet/labextension/
+js/dist/
+
+# OS X
+.DS_Store
+.idea/
+
+js/jupyter-leaflet-*.tgz
+
+# Documentation data files
+docs/*.csv
+docs/*.json
+docs/*.nc
+docs/test.wkt
+
+# Untitled Notebooks
+*Untitled*.ipynb
+
+
+*.bundle.*
+lib/
+node_modules/
+notebooks_test/
+*.egg-info/
+.ipynb_checkpoints
+.DS_Store
