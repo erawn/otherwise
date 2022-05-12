@@ -1,3 +1,5 @@
+Final Project for CS 294-186 Building User-Centered Programming Tools
+
 # JupyterLab Code Analysis Extension Demo
 Lots of developer tools require access to _programatic_ reading and writing of user code, as well as variable state. This is an example JupyterLab Extension that provides simple code demonstrating __how to__ programatically reading and writing notebook user code, as well as accessing variable state and type information in the user's programming environment. 
 ### Install Instructions
